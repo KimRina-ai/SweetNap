@@ -1,0 +1,6 @@
+5
+10:11 12:00 Commuting. Taking a bus.
+12:05 12:55 Lunch and Coffee break.
+14:00 15:55 Lecture1.
+16:00 17:45 Lecture2.
+17:46 18:00 Phone English.

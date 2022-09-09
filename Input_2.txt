@@ -1,0 +1,5 @@
+4
+11:50 13:50 Lunch
+14:00 15:30 Class1: AI bldg.
+16:00 16:50 Study group meeting
+16:55 18:00 Hangout

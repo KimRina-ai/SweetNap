@@ -1,0 +1,11 @@
+10
+10:01 11:02 Lecture
+11:03 12:55 Lunch time.
+13:01 14:48 Midterm exam.
+15:03 15:29 Running.
+15:37 15:55 Phone call.
+15:59 16:13 Meeting with friends.
+16:15 16:48 working on homework.
+16:51 17:02 listening music.
+17:03 17:14 runing.. running. running.
+17:15 17:59 short dating.
